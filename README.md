@@ -2,4 +2,4 @@
 
 HI There ✋🏽
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricClass&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricTURATSINZE&theme=merko)
