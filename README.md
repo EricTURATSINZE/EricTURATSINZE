@@ -6,7 +6,7 @@
 
 ### Gist About Me
 
-- 👨🏽‍💻 I’m a full-stack developer with MERN stackspecialized in Agile development. Currently learning blockchain development #smartcontracts
+- 👨🏽‍💻 I’m a full-stack developer with MERN stack, specialized in Agile development. Currently learning blockchain development.
 - 👯 Looking forward to collaborate on innovative project solutions.
 - 📫 Don't hesitate to reach out to me: <a href="mailto:turatsinzeeric43@gmail.com">send me an E-mail</a>
 - ⚡ Fun fact: Other than programming, I also enjoy playing guitar and drawing.
