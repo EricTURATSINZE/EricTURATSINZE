@@ -1,4 +1,4 @@
-## Hi There ✋🏽, I'm Eric Software Engineer
+## Hi There ✋🏽, I'm Eric, Software Developer
 
 I use the following stack
 
