@@ -12,8 +12,3 @@ I use the following stack
 - 👯 Looking forward to collaborate on innovative project solutions.
 - 📫 Don't hesitate to reach out to me: <a href="mailto:turatsinzeeric43@gmail.com">send me an E-mail</a>
 - ⚡ Fun fact: Other than programming, I also enjoy playing guitar and drawing.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricTURATSINZE&theme=merko)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricTURATSINZE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
