@@ -8,7 +8,8 @@ I use the following stack
 
 ### Gist About Me
 
-- 👨🏽‍💻 I’m a full-stack developer with MERN stack, specialized in Agile development. Currently learning blockchain development.
+- 👨🏽‍💻 I’m a full-stack developer with 4 years of experience using MERN stack, specialized in Agile development. 
+- 👨🏽‍💻 Extensive experience in building front end ReactJs apps with Typscript, using Redux toolkit to manage state.
 - 👯 Looking forward to collaborate on innovative project solutions.
 - 📫 Don't hesitate to reach out to me: <a href="mailto:turatsinzeeric43@gmail.com">send me an E-mail</a>
 - ⚡ Fun fact: Other than programming, I also enjoy playing guitar and drawing.
